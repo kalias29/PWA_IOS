@@ -1,11 +1,11 @@
 {
-    "name": "Crush Livorno",
-    "short_name": "Crush Livorno",
+    "name": "Crash",
+    "short_name": "Crash",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#8C3144",
     "theme_color": "#8C3144",
-    "description": "Seguici su Instagram @crush_livorno",
+    "description": "Follow on IG",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
